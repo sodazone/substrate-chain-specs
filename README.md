@@ -8,6 +8,7 @@ A repo to house chains specs of Substrate chains.
 - Asset Hub: https://github.com/paritytech/polkadot-sdk/blob/master/cumulus/parachains/chain-specs/asset-hub-polkadot.json
 - Acala: https://github.com/AcalaNetwork/Acala/blob/master/resources/acala-dist.json
 - Astar: https://github.com/AstarNetwork/astar-apps/blob/main/src/config/api/polkadot/chain-specs/astar.json
+- HydraDX: https://github.com/galacticcouncil/HydraDX-node/blob/master/node/res/hydradx.json
 
 **Kusama Networks**
 
